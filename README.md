@@ -2,6 +2,7 @@
 
 ## Team Member(s):
 Aditi Alankrita - aditia3
+
 Rujuta Dawkhar - rdawk2
 
 # Monte Carlo Simulation Scenario & Purpose:
@@ -13,6 +14,7 @@ In this simulation we are randomly trying to generate customers in queue with a 
 The random variable we are considering are:
 (i) number of people in queue 
 (ii) waiting time for the caller to reach representative
+
 There can also be call abandons due to long wait times
 The simulation will help us determine the number of representatives needed to reduce the call drops.
 
