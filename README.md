@@ -24,7 +24,7 @@ We are assuming as the number of representatives increase, there would be less w
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
 
 Assumptions made:
-All Reps have the same efficiency
+All Reps have the same efficiency.
 There is no rest time for the Reps.
 
 ## Instructions on how to use the program:
