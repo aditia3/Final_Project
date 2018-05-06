@@ -345,12 +345,12 @@ if __name__ == '__main__':
     ax2.scatter(rep4, rep2)
     ax2.set_xlabel('No of Representatives')
     ax2.set_ylabel('Avg. speed of answer')
-    ax2.set_title('Avg speed of answer vs No of Reprenstatives')
+    ax2.set_title('Avg speed of answer (min) vs No of Reprenstatives')
     plt.tight_layout()
     plt.show()
 
     print("Program to run Monte Carlo simulation for a Call Center")
-    print("\nHypothesis - True: As number of representatives increases Dropout Percentage and Avg wait time decreases")
+    print("\nHypothesis - True: As number of representatives increase Dropout Percentage and Avg wait time decrease")
     print("The lower your Avg speed of answer(ASA) time, the shorter amount of time that your customers are waiting in the queue.")
     # Zip rep4 with rep1, rep2 respectively to display result in tabulur form
     print("\nTable : Number of Representatives and the Avg dropout percentage")
