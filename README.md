@@ -45,19 +45,19 @@ The calculation shows that as the number of representatives increase (from 1 to 
 Output of code which supports hypothesis:
 Table : Number of Representatives and the Avg dropout percentage
 
-1 	   78.18452380952391
+1 	 -  78.18452380952391
 
-2	   62.11309523809534
+2	 -  62.11309523809534
 
-3	   50.05952380952353
+3	 -  50.05952380952353
 
 Table : Number of Representatives and the Avg speed of answer 
 
-1	   4.916666666666667
+1	-   4.916666666666667
 
-2	   2.674999999999975
+2	-   2.674999999999975
 
-3	   1.7211538461538372
+3	-   1.7211538461538372
 
 
 ## All Sources Used:
