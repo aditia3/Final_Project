@@ -41,6 +41,18 @@ The program has been written for 1000 simulations for number of representatives 
 We are then finidng out call center metrics and displaying it in the form of a table and plot.
 The calculation shows that as the number of representatives increase (from 1 to 3) the avergae dropout rate and wait time will be decreased.
 
+Output of code which supports hypothesis:
+Table : Number of Representatives and the Avg dropout percentage
+1 	78.18452380952391
+2	  62.11309523809534
+3	  50.05952380952353
+
+Table : Number of Representatives and the Avg speed of answer 
+1	  4.916666666666667
+2	  2.674999999999975
+3	  1.7211538461538372
+
+
 ## All Sources Used:
 
 (i) https://link.springer.com/article/10.1057%2Fdddmp.2011.25
